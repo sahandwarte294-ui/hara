@@ -1,0 +1,9 @@
+Package: com.hara.apex
+Name: Apex
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Custom Apex style design and text UI tweak.
+Maintainer: hara
+Author: hara
+Section: Tweaks
